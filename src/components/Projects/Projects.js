@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Bird Species Identification"
               description="Developed a Front-end interface using HTML and CSS to enable users to upload images for bird species.• Assisted on Data collection by gathering relevant datasets for training the machine learning model. Played apivotal role in implementing Machine learning algorithms in Python to analyze images and classify bird species• Contributed to the implementation of Machine learning algorithms in Python to analyze images and classify"
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/Surabatthinimounika9999"
+              demoLink="https://github.com/Surabatthinimounika9999"
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Water Usage Data Analysis"
               description="Designed and implemented data analysis systematically capture, clean, and evaluate water usage patterns fromprovided datasets, ensuring accurate and reliable insights. Used Python tools for efficient handling of structured.• Conducted data preprocessing tasks such as handling missing values, normalizing data, leveraging Pandas.• Generated actionable insights by analyzing Line graphs and Stacked Bar charts, highlighting trends andidentifying anomalies in daily water consumption"
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/Surabatthinimounika9999"
+              demoLink="https://github.com/Surabatthinimounika9999"
             />
           </Col>
 {/* 
